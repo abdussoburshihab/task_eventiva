@@ -8,7 +8,7 @@
 
 .body {
     
-   background-image: url(images/Rectangle\ 97.jpg);
+   background-image: url(./images/Rectangle\ 97.jpg);
    height: 100vh;
    background-size: cover;
    background-position: center;
@@ -80,8 +80,13 @@
     color: white;
     margin-left: 200px;
     margin-right: 200px;
+    height: 524px;
 
   
+}
+.off{
+    margin-left: 400px;
+    
 }
 
 
@@ -92,6 +97,13 @@
     margin-left: 210px;
     margin-right: 210px;
     
+    
+    
+}
+.input{
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid gray;
     
 }
 
@@ -144,11 +156,13 @@ h1{
 } */
 
 .btn-cls{
-    margin-right: 20%;
+    
     background: linear-gradient(90deg, #B30D5D 0%, #490AB5 105.36%);
     color: white;
     font-size: small;
-    border-radius: 8px;
+    border-radius: 10px;
+    margin: 10px;
+    margin-right: 200px;
 }
 
 

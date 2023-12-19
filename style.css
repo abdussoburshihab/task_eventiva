@@ -16,7 +16,7 @@
    
 }
 .i{
-    width: 376px;
+    width: 325px;
     height: 243px;
     
     left: 326px;
@@ -115,14 +115,14 @@
 }
 
 .text-big{
-    font-weight: 800;
-    font-size: 140px;
+    font-weight: 900;
+    font-size: 126px;
     color: rgba(255, 255, 255, 0.768);
 }
 
 .sp{
     font-weight: 800;
-    font-size: 140px;
+    font-size: 126px;
     color: rgba(255, 255, 255, 0.768);
    
     
@@ -132,6 +132,11 @@ h1{
     display: inline;
 }
 
+.btn-inter{
+    background: linear-gradient(90deg, #B30D5D 0%, #490AB5 105.36%);
+    color: white;
+    font-size: small;
+}
 
 
 
